@@ -1,0 +1,3 @@
+module UBER_LOW_LEVEL_SYSTEM_DESIGN
+
+go 1.23
